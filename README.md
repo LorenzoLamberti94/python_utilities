@@ -1,2 +1,2 @@
-# python_utils
-basic python snippets i use very often
+# python_utilities
+basic python snippets I use very often
